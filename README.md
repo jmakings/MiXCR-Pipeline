@@ -16,4 +16,5 @@ This is carried out across a few steps, each of which contains its own bash scri
 <br>Script: [mixcr_postanalysis](https://github.com/jmakings/MiXCR-Pipeline/blob/main/mixcr_postanalysis.sh)
 
 For more information on MiXCR: 
-[MiXCR Nature Methods Paper](https://www.nature.com/articles/nmeth.3364)
+<br>[MiXCR Nature Methods Paper](https://www.nature.com/articles/nmeth.3364)
+<br>[MiXCR Documentation](https://docs.milaboratories.com/mixcr/reference/mixcr-analyze/)
