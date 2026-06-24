@@ -3,7 +3,7 @@
 - Find new nextflow-enhanced MiXCR pipeline in /upgraded_nextflow directory. 
 - Older scripts created Ley Lab at La Jolla Institute for Immunology in 2022 can be found in /original_scripts
 
-### Original Scripts: MiXCR analysis pipeline for obtaining TCR sequence information from paired-end, bulk RNA-seq FASTQs. 
+## Original Scripts: MiXCR analysis pipeline for obtaining TCR sequence information from paired-end, bulk RNA-seq FASTQs. 
 
 For detailed overview, take a look at [MiXCR_pipeline_overview.ipynb](https://github.com/jmakings/MiXCR-Pipeline/blob/main/MiXCR_pipeline_overview.ipynb) which contains each bash script and a description of how they work.
 
