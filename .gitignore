@@ -2,3 +2,13 @@
 *.fastq.gz
 *.fq
 *.fq.gz
+
+# Nextflow working dirs
+work/
+.nextflow/
+.nextflow.log*
+
+# MiXCR outputs
+*.clns
+*.clna
+*.vdjca
